@@ -1,5 +1,5 @@
 
-var Zelig = require('convolve')
+var Zelig = require('component-convolve')
   , filters = require('./filters');
 
 module.exports = Zelig;

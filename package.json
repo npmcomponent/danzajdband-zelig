@@ -1,0 +1,13 @@
+{
+  "name": "danzajdband-zelig",
+  "description": "Clasic convolution filters on top of component/convolve",
+  "version": "0.0.1",
+  "keywords": [
+    "convolve",
+    "image processing",
+    "canvas"
+  ],
+  "dependencies": {
+    "component-convolve": "git://github.com/npmcomponent/component-convolve.git"
+  }
+}
